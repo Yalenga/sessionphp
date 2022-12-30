@@ -1,0 +1,18 @@
+form{
+background-color: white; 
+margin-top: 0%;
+margin-bottom: 0%; 
+margin-left: 35%; 
+margin-right: 45%; 
+width: 25%; 
+border: 1px solid #e5e5eb; 
+border-radius:25px;
+}
+body{
+background-color:aqua;
+}
+input, button{
+margin-top: 3px;
+margin-bottom: 3px;
+margin-left:10%;
+}
